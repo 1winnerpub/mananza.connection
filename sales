@@ -1,0 +1,22 @@
+[
+{
+    "id": 1,
+    "name": "Photo 1",
+    "description": "Sale with 50% discount on large gift lollipops",
+    "imageUrl": "https://i.ibb.co/FJYGP57/f-YVFBPCv6-CA.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Photo 2",
+    "description": "Now you can celebrate your children's birthday with us",
+    "imageUrl": "https://i.ibb.co/mDZnRNn/section-onlyimage-image.jpg"
+  },
+
+{
+    "id": 3,
+    "name": "Photo 3",
+    "description": "every second small caramel candy is free",
+    "imageUrl": "https://i.ibb.co/6RTjFXS/607637-karamielkovo-540x480.jpg"
+  },
+  
+]
