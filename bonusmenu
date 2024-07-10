@@ -12,36 +12,36 @@
         "goods": [
           {
             "id": 91,
-            "name": "Venicians Waffle",
+            "name": "Venetian waffles",
             "img": "https://i.ibb.co/3MkgK07/section-slider-image-5.webp",
             "price": 200,
             "mass": "250g"
           },
           {
             "id": 90,
-            "name": "Irland-light-beer",
-            "img": "https://i.ibb.co/6W631k1/4ran-light-beer.jpg",
+            "name": "Marshmallow with marmalade",
+            "img": "https://i.ibb.co/HFdZNdT/section-slider-image-6.webp",
             "price": 250,
             "mass": "200g"
           },
 			{
             "id": 92,
-            "name": "Irland unfiltered beer",
-            "img": "https://i.ibb.co/q54QHPL/4ran-unfiltered-beer.jpg",
-            "price": 300,
+            "name": "apple strudel with ice cream",
+            "img": "https://i.ibb.co/NCt4jDG/section-slider-image-7.webp",
+            "price": 400,
             "mass": "250g"
           },
 			{
             "id": 93,
-            "name": "Irland light beer tower",
-            "img": "https://i.ibb.co/2MDSLgN/4ran-beer-tower.jpg",
-            "price": 1000,
+            "name": "Pear with caramel mousse",
+            "img": "https://i.ibb.co/3zbSf9C/c81c128d-f8bd-425a-aa61-0f15a15e5739.webp",
+            "price": 800,
             "mass": "250g"
           },
 			{
             "id": 94,
-            "name": "shot-set",
-            "img": "https://i.ibb.co/MPhN7wn/4ran-shots-set.jpg",
+            "name": "mananza's dessert for friends",
+            "img": "https://i.ibb.co/fFwQ4fW/mananza-s-deserts-for-friends.jpg",
             "price": 1500,
             "mass": "250g"
           }
@@ -49,29 +49,29 @@
       },
       {
         "id": 2,
-        "name": "Food",
+        "name": "Drinks",
         "img": "https://i.ibb.co/s2SJ8LC/basket-t-shirt.jpg",
         "price": 35,
         "created_at": null,
         "goods": [
           {
             "id": 101,
-            "name": "Crackers for beer",
-            "img": "https://i.ibb.co/hVWnYdT/4ran-crackers-for-beer.jpg",
+            "name": "All type of coffee",
+            "img": "https://i.ibb.co/jJNPHG3/coffee.jpg",
             "price": 250,
             "mass": "250g"
           },
           {
             "id": 102,
-            "name": "Cheese balls for beer",
-            "img": "https://i.ibb.co/R0zQY6w/cheese-balls.jpg",
+            "name": "sea ​​buckthorn tea",
+            "img": "https://i.ibb.co/YLNJqVr/section-slider-image-11.webp",
             "price": 350,
             "mass": "250g"
           },
 			{
             "id": 103,
             "name": "Beef burger",
-            "img": "https://i.ibb.co/Np0pVxx/4ran-beef-burger.jpg",
+            "img": "https://i.ibb.co/Vqsg8nD/7n0gvs64ef76p2ldap1j7305igv1wzuv.webp",
             "price": 700,
             "mass": "250g"
           }
